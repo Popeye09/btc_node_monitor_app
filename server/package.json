@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Bitcoin node manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kovács Áron",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoin-core": "^4.1.0",
+    "express": "^4.18.2",
+    "json-rpc-2.0": "^1.7.0"
+  }
+}
